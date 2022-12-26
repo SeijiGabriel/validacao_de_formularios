@@ -40,11 +40,17 @@ _____
 ### Neste curso foi praticado
 
 ☑︎ Manipulação de DOM;
+
 ☑︎ Validação para CPF;
+
 ☑︎ Validação para maioridade;
+
 ☑︎ Mensagens de erros customizadas para cada tipo de campo;
+
 ☑︎ Integração da tela de usuário com webcam;
+
 ☑︎ Capturar fotos via webcam;
+
 
 
 
