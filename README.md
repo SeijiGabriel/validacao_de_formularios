@@ -37,7 +37,7 @@ _____
 _____
 ![screencapture-127-0-0-1-5500-pages-abrir-conta-form-2-html-2022-12-26-17_17_20](https://user-images.githubusercontent.com/104286173/209581061-2411278b-9f54-4240-9162-cfb2398416e6.png)
 
-### Neste curso foi praticado
+### Neste curso foi desenvolvido:
 
 ☑︎ Manipulação de DOM;
 
